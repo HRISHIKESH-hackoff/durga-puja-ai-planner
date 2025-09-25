@@ -1,0 +1,27 @@
+{
+  "name": "durga-puja-ai-planner",
+  "version": "1.0.0",
+  "description": "AI-powered vibrant Durga Puja pandal hopping planner: plan your route, food, transport & enjoy the ultimate festival experience!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRISHIKESH-hackoff/durga-puja-ai-planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HRISHIKESH-hackoff/durga-puja-ai-planner/issues"
+  },
+  "homepage": "https://github.com/HRISHIKESH-hackoff/durga-puja-ai-planner#readme",
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
