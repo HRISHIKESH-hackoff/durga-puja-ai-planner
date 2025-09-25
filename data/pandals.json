@@ -1,0 +1,146 @@
+{
+  "pandals": [
+    {
+      "id": 1,
+      "name": "Ekdalia Evergreen Club",
+      "location": "Gariahat, South Kolkata",
+      "theme": "Traditional Bengali Heritage",
+      "coordinates": { "lat": 22.5186, "lng": 88.3639 },
+      "rating": 4.8,
+      "crowdLevel": "High",
+      "bestTimeToVisit": "Early Morning (6-9 AM)",
+      "specialFeatures": ["Traditional Dhak", "Cultural Programs", "Authentic Bengali Food"],
+      "imageUrl": "/images/pandals/ekdalia.jpg",
+      "description": "One of Kolkata's most famous pandals known for its traditional approach and grand celebration."
+    },
+    {
+      "id": 2,
+      "name": "Mudiali Club",
+      "location": "Mudiali, North Kolkata",
+      "theme": "Contemporary Art & Culture",
+      "coordinates": { "lat": 22.5958, "lng": 88.3639 },
+      "rating": 4.7,
+      "crowdLevel": "Medium",
+      "bestTimeToVisit": "Evening (5-8 PM)",
+      "specialFeatures": ["Modern Art Installation", "Light Show", "Food Court"],
+      "imageUrl": "/images/pandals/mudiali.jpg",
+      "description": "A blend of traditional devotion with contemporary artistic expression."
+    },
+    {
+      "id": 3,
+      "name": "Bagbazar Sarbojanin",
+      "location": "Bagbazar, North Kolkata",
+      "theme": "Eco-Friendly & Sustainable",
+      "coordinates": { "lat": 22.5958, "lng": 88.3497 },
+      "rating": 4.9,
+      "crowdLevel": "Medium",
+      "bestTimeToVisit": "Morning (8-11 AM)",
+      "specialFeatures": ["Eco-friendly Decorations", "Organic Food Stalls", "Green Initiatives"],
+      "imageUrl": "/images/pandals/bagbazar.jpg",
+      "description": "Leading the way in sustainable celebrations with eco-friendly practices."
+    },
+    {
+      "id": 4,
+      "name": "Ballygunge Cultural Association",
+      "location": "Ballygunge, South Kolkata",
+      "theme": "Heritage Revival",
+      "coordinates": { "lat": 22.5186, "lng": 88.3497 },
+      "rating": 4.6,
+      "crowdLevel": "High",
+      "bestTimeToVisit": "Late Evening (7-10 PM)",
+      "specialFeatures": ["Classical Dance Performances", "Heritage Food", "Literary Corner"],
+      "imageUrl": "/images/pandals/ballygunge.jpg",
+      "description": "Celebrating Bengal's rich cultural heritage through art, music, and literature."
+    },
+    {
+      "id": 5,
+      "name": "Jodhpur Park Sarbojanin",
+      "location": "Jodhpur Park, South Kolkata",
+      "theme": "International Fusion",
+      "coordinates": { "lat": 22.4953, "lng": 88.3497 },
+      "rating": 4.5,
+      "crowdLevel": "Medium",
+      "bestTimeToVisit": "Afternoon (2-5 PM)",
+      "specialFeatures": ["International Cuisine", "Global Art", "Multi-cultural Events"],
+      "imageUrl": "/images/pandals/jodhpur-park.jpg",
+      "description": "A unique blend of Bengali traditions with international cultural elements."
+    },
+    {
+      "id": 6,
+      "name": "Sovabazar Rajbari",
+      "location": "Sovabazar, North Kolkata",
+      "theme": "Royal Heritage",
+      "coordinates": { "lat": 22.5958, "lng": 88.3431 },
+      "rating": 4.8,
+      "crowdLevel": "Low",
+      "bestTimeToVisit": "Morning (7-10 AM)",
+      "specialFeatures": ["Royal Tradition", "Classical Music", "Heritage Architecture"],
+      "imageUrl": "/images/pandals/sovabazar.jpg",
+      "description": "Experience the grandeur of Bengal's royal heritage in this historic celebration."
+    }
+  ],
+  "foodRecommendations": {
+    "traditional": [
+      {
+        "name": "Khichdi Bhog",
+        "location": "Most Pandals",
+        "price": "Free",
+        "description": "Sacred offering of rice and lentil preparation"
+      },
+      {
+        "name": "Luchi-Alur Dom",
+        "location": "Street Stalls",
+        "price": "₹30-50",
+        "description": "Deep-fried bread with spiced potatoes"
+      }
+    ],
+    "street": [
+      {
+        "name": "Phuchka",
+        "location": "Pandal Areas",
+        "price": "₹20-30",
+        "description": "Spicy water balls - Kolkata's favorite snack"
+      },
+      {
+        "name": "Kathi Roll",
+        "location": "Food Courts",
+        "price": "₹60-100",
+        "description": "Wrapped flatbread with various fillings"
+      }
+    ],
+    "sweets": [
+      {
+        "name": "Rasgulla",
+        "location": "Sweet Shops",
+        "price": "₹15-25 per piece",
+        "description": "Bengal's iconic spongy sweet balls"
+      },
+      {
+        "name": "Mishti Doi",
+        "location": "Pandal Stalls",
+        "price": "₹40-60",
+        "description": "Sweet yogurt in earthen pots"
+      }
+    ]
+  },
+  "transportOptions": [
+    {
+      "mode": "Metro",
+      "coverage": "Major pandal areas",
+      "cost": "₹5-20 per ride",
+      "tips": "Avoid rush hours, carry tokens"
+    },
+    {
+      "mode": "Bus",
+      "coverage": "All areas",
+      "cost": "₹5-15 per ride",
+      "tips": "Check route maps, be prepared for crowds"
+    },
+    {
+      "mode": "Auto/Taxi",
+      "coverage": "Door to door",
+      "cost": "₹50-200 per ride",
+      "tips": "Use ride-sharing apps, expect higher fares"
+    }
+  ]
+}
